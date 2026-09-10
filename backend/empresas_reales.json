@@ -1,0 +1,127 @@
+[
+  {
+    "empresa": {
+      "nombre": "Hipermercados Tottus S.A.",
+      "sector": "Retail - Supermercados",
+      "ciudad": "Lima",
+      "exige_titulo": false,
+      "apto_joven": false,
+      "latitud": -12.1191,
+      "longitud": -77.0296,
+      "web_aplicacion": "https://www.tottus.com.pe/trabaja-con-nosotros"
+    },
+    "resenas": [],
+    "sanciones": [],
+    "ofertas": [
+      {
+        "titulo_puesto": "Auxiliar de tienda / Reponedor",
+        "descripcion": "Atención al cliente, reposición de productos y apoyo en caja. Puesto de entrada común en cadenas de supermercados.",
+        "requiere_titulo": false,
+        "jornada_horas": null,
+        "apto_joven": false,
+        "alertas": "Esta oferta exige ser mayor de edad (18 años), verificado en la convocatoria vigente. No es apta para postulantes de 17 años según los criterios de esta web.",
+        "url_aplicacion": "https://www.tottus.com.pe/trabaja-con-nosotros"
+      }
+    ]
+  },
+  {
+    "empresa": {
+      "nombre": "Supermercados Peruanos S.A. (Plaza Vea)",
+      "sector": "Retail - Supermercados",
+      "ciudad": "Lima",
+      "exige_titulo": false,
+      "apto_joven": false,
+      "latitud": -12.1024,
+      "longitud": -77.0016,
+      "web_aplicacion": "https://www.trabajaconnosotros.pe/supermercadosperuanos"
+    },
+    "resenas": [],
+    "sanciones": [],
+    "ofertas": [
+      {
+        "titulo_puesto": "Cajero(a) / Auxiliar de tienda",
+        "descripcion": "Atención en caja y apoyo en sala de ventas en tiendas Plaza Vea, Vivanda o Mass.",
+        "requiere_titulo": false,
+        "jornada_horas": null,
+        "apto_joven": false,
+        "alertas": "Esta oferta exige ser mayor de edad (18 años), verificado en la convocatoria vigente. No es apta para postulantes de 17 años según los criterios de esta web.",
+        "url_aplicacion": "https://www.trabajaconnosotros.pe/supermercadosperuanos"
+      }
+    ]
+  },
+  {
+    "empresa": {
+      "nombre": "Delosi S.A. (KFC)",
+      "sector": "Restaurantes / Comida rápida",
+      "ciudad": "Lima",
+      "exige_titulo": false,
+      "apto_joven": false,
+      "latitud": -12.0931,
+      "longitud": -77.0465,
+      "web_aplicacion": "https://www.kfc.com.pe/trabaja-con-nosotros"
+    },
+    "resenas": [],
+    "sanciones": [],
+    "ofertas": [
+      {
+        "titulo_puesto": "Auxiliar de cocina / Atención al cliente",
+        "descripcion": "Preparación de alimentos y atención al cliente en locales KFC operados por Delosi S.A.",
+        "requiere_titulo": false,
+        "jornada_horas": null,
+        "apto_joven": false,
+        "alertas": "Esta oferta exige ser mayor de edad (18 años), verificado en la convocatoria vigente. No es apta para postulantes de 17 años según los criterios de esta web.",
+        "url_aplicacion": "https://www.kfc.com.pe/trabaja-con-nosotros"
+      }
+    ]
+  },
+  {
+    "empresa": {
+      "nombre": "Farmacias Peruanas S.A.C. (Inkafarma)",
+      "sector": "Retail - Farmacias",
+      "ciudad": "Lima",
+      "exige_titulo": false,
+      "apto_joven": true,
+      "latitud": -12.0632,
+      "longitud": -77.0307,
+      "web_aplicacion": "https://www.inkafarma.pe/trabaja-con-nosotros"
+    },
+    "resenas": [],
+    "sanciones": [],
+    "ofertas": [
+      {
+        "titulo_puesto": "Auxiliar de tienda",
+        "descripcion": "Apoyo en atención al cliente y orden de productos en tiendas Inkafarma.",
+        "requiere_titulo": false,
+        "jornada_horas": null,
+        "apto_joven": null,
+        "alertas": "PENDIENTE: confirmar jornada exacta y aptitud juvenil revisando la convocatoria vigente en el link de postulación.",
+        "url_aplicacion": "https://www.inkafarma.pe/trabaja-con-nosotros"
+      }
+    ]
+  },
+  {
+    "empresa": {
+      "nombre": "Cencosud Retail Perú S.A. (Metro / Wong)",
+      "sector": "Retail - Supermercados",
+      "ciudad": "Lima",
+      "exige_titulo": false,
+      "apto_joven": false,
+      "latitud": -12.1197,
+      "longitud": -77.0297,
+      "web_aplicacion": "https://www.cencosud.com.pe/trabaja-con-nosotros"
+    },
+    "resenas": [],
+    "sanciones": [],
+    "ofertas": [
+      {
+        "titulo_puesto": "Auxiliar de tienda / Reponedor",
+        "descripcion": "Atención al cliente y reposición de mercadería en tiendas Metro o Wong.",
+        "requiere_titulo": false,
+        "jornada_horas": null,
+        "apto_joven": false,
+        "alertas": "Esta oferta exige ser mayor de edad (18 años), verificado en la convocatoria vigente. No es apta para postulantes de 17 años según los criterios de esta web.",
+        "url_aplicacion": "https://www.cencosud.com.pe/trabaja-con-nosotros"
+      }
+    ]
+  }
+]
